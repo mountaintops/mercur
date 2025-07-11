@@ -1,0 +1,1 @@
+robocopy email-templates C:\Users\perro\Documents\shop\node_modules\@mercurjs\resend\src\email-templates
